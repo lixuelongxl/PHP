@@ -64,7 +64,7 @@
     "vuex-persist": "^2.2.0",
     "vxe-table": "^3.4.15",
     "wangeditor": "^4.7.9",
-    "xe-utils": "^3.5.4",
+    "xe-utils": "^3.7.2",
     "xlsx": "^0.13.5"
   },
   "devDependencies": {
